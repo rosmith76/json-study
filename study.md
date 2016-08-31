@@ -38,8 +38,17 @@ As it makes sense to you please write the following in JSON format:
 -   Has lived in two places recently: 123 Fake street, and 2 Muchinfo Road
 
 ```json
-<!-- your answer here -->
+{
+    "jason": {
+        "cat": "Mr. Kitty",
+	}
+    }
+}
+I am lost on json. It makes no sense to me. I have put about 3 hours into homework
+tonight, and I can't figure this out. 
 ```
+
+
 
 I forgot, my roomate Dave has two goldfish, one named Bob (he's red) and the
 other named Mr.MagicNibbles (yellow) and bites a bit. Please copy the JSON you
